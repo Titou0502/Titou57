@@ -1,0 +1,9 @@
+nourriture_preferee= "glace"
+nouvelle_nourriture_preferee = "Pizza"
+nourriture_preferee = "Pâtes"
+print(nourriture_preferee)
+
+
+nom="Titouan"
+age="14"
+print("Je m'appelle Titouan et j'ai 14ans")
